@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 12000,
+            "createdAt": "2022-12-22T19:34:22.505Z"
+        },
+        {
+            "id": 2,
+            "description": "Pizza",
+            "type": "outcome",
+            "category": "Alimento",
+            "price": 50,
+            "createdAt": "2022-12-22T19:50:32.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Cursos",
+            "type": "outcome",
+            "category": "Curso",
+            "price": 1550,
+            "createdAt": "2022-11-22T19:50:32.505Z"
+        }
+    ]
+}
