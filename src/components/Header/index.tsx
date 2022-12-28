@@ -14,6 +14,7 @@ export function Header() {
                 
                 {/* modal */}
                 <Dialog.Root>
+                    {/* asChild usa seu modelo de botão */}
                     <Dialog.Trigger asChild>
                         <NewTransactionButton>Noma Transação</NewTransactionButton>
                     </Dialog.Trigger>
