@@ -1,28 +1,68 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 12000,
-            "createdAt": "2022-12-22T19:34:22.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Pizza",
-            "type": "outcome",
-            "category": "Alimento",
-            "price": 50,
-            "createdAt": "2022-12-22T19:50:32.505Z"
-        },
-        {
-            "id": 3,
-            "description": "Cursos",
-            "type": "outcome",
-            "category": "Curso",
-            "price": 1550,
-            "createdAt": "2022-11-22T19:50:32.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2022-12-22T19:34:22.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimento",
+      "price": 50,
+      "createdAt": "2022-12-22T19:50:32.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Cursos",
+      "type": "outcome",
+      "category": "Curso",
+      "price": 1550,
+      "createdAt": "2022-11-22T19:50:32.505Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 8000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-31T14:16:25.536Z",
+      "id": 4
+    },
+    {
+      "description": "Parcela do sitio",
+      "price": 80,
+      "category": "Conta",
+      "type": "outcome",
+      "createdAt": "2022-12-31T14:16:57.888Z",
+      "id": 5
+    },
+    {
+      "description": "Compra PS5",
+      "price": 4500,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2022-12-31T14:25:23.238Z",
+      "id": 6
+    },
+    {
+      "description": "Parcela do carro ",
+      "price": 1500,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2022-12-31T14:26:59.161Z",
+      "id": 7
+    },
+    {
+      "description": "Desenvolvimento de app de vendas",
+      "price": 12000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2022-12-31T14:30:36.091Z",
+      "id": 8
+    }
+  ]
 }
